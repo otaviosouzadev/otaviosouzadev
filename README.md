@@ -14,7 +14,7 @@
 
 🐙 **GitHub:** [otaviosouzadev](https://github.com/otaviosouzadev)
 
-📧 **E-mail:** [osouza0508@gmail.com](mailto:osouza0508@gmail.com)
+📧 **E-mail:** [o.souza0508@gmail.com](mailto:o.souza0508@gmail.com)
 
 ---
 
