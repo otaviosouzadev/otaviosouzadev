@@ -127,7 +127,7 @@ Busco continuamente transformar o conhecimento adquirido nos estudos em projetos
 
 ## 📫 Entre em contato
 
-📧 **E-mail:** [osouza0508@gmail.com](mailto:osouza0508@gmail.com)
+📧 **E-mail:** [o.souza0508@gmail.com](mailto:o.souza0508@gmail.com)
 
 💼 **LinkedIn:** [Otávio Souza Santos](https://www.linkedin.com/in/otavio-souza-santos/)
 
