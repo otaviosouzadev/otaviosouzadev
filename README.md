@@ -114,8 +114,6 @@ Busco continuamente transformar o conhecimento adquirido nos estudos em projetos
 
 ## 📊 Minha jornada
 
-## 📊 Minha jornada
-
 🎓 **Análise e Desenvolvimento de Sistemas**  
 📚 **Aprendizado contínuo**  
 💻 **Projetos práticos**  
