@@ -8,6 +8,14 @@
 
 🎯 Buscando minha primeira oportunidade na área de tecnologia para aprender, contribuir e crescer profissionalmente.
 
+## 📫 Contato
+
+💼 **LinkedIn:** [Otávio Souza Santos](https://www.linkedin.com/in/otavio-souza-santos/)
+
+🐙 **GitHub:** [otaviosouzadev](https://github.com/otaviosouzadev)
+
+📧 **E-mail:** [osouza0508@gmail.com](mailto:osouza0508@gmail.com)
+
 ---
 
 ## 🛠️ Tecnologias
@@ -119,16 +127,6 @@ Busco continuamente transformar o conhecimento adquirido nos estudos em projetos
 🌐 **Desenvolvimento Web**  
 🚀 **Primeira oportunidade**  
 📈 **Evolução profissional**
-
----
-
-## 📫 Entre em contato
-
-📧 **E-mail:** [o.souza0508@gmail.com](mailto:o.souza0508@gmail.com)
-
-💼 **LinkedIn:** [Otávio Souza Santos](https://www.linkedin.com/in/otavio-souza-santos/)
-
-🐙 **GitHub:** [otaviosouzadev](https://github.com/otaviosouzadev)
 
 ---
 
