@@ -1,11 +1,12 @@
-# 👋 Olá, eu sou Otavio Souza!
+# 👋 Olá, eu sou Otávio Souza!
 
-💻 **Estudante de Análise e Desenvolvimento de Sistemas** e desenvolvedor em formação.
+💻 **Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Web em formação**
 
-🚀 Atualmente estou desenvolvendo meus conhecimentos em **HTML, CSS, JavaScript e TypeScript**, criando projetos para colocar em prática o que estou aprendendo.
+🚀 Desenvolvendo projetos para transformar conhecimento em prática.
 
-🎯 Meu objetivo é conquistar minha **primeira oportunidade na área de tecnologia** e continuar evoluindo como desenvolvedor.
+📚 Atualmente focado em **HTML, CSS, JavaScript e TypeScript**.
 
+🎯 Buscando minha primeira oportunidade na área de tecnologia.
 ---
 
 ## 🛠️ Tecnologias
